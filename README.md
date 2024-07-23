@@ -6,7 +6,7 @@ Features:
 2. Input Validation: Ensures moves are within range and not in already occupied cells.
 3. Win and Draw Detection: Automatically detects and announces the winner or if the game ends in a draw.
 4. Simple CLI Interface: Easy to run and play in the terminal.
-5. 
+ 
 How to Play:
 1. Clone or download the repository.
 2. Run the script using Python.
